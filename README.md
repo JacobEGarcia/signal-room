@@ -8,3 +8,5 @@ Move with WASD/arrow keys; Shift to sprint; E/Space to pick up a nearby file; R 
 This is a concise 2D stealth vignette, not the reference game's footage or a recreation of its entire sequence. Reference: https://x.com/georgjutvall/status/2103161227585147147 (quoted by https://x.com/aelthemplaer/status/2103235980983783436).
 
 Version 2 places the action in a dark over-the-shoulder control room with a panoramic map feed, inked operators, desk consoles, original figure drawings, RGB-channel offset, per-pixel film noise, scanline darkening and washed colors. The trailer is a montage of many scenes; this is a single playable scene, not a frame-for-frame remake or a full-length production game.
+
+Version 3 adds an original, generated painterly control-room layer (`control-room-original.png`) with detailed inked suited figure, operators, CRT stations and a photographic-style battlefield projection. It is not taken from the reference post. The illustrated fallback is retained in code if image loading fails.
